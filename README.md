@@ -25,7 +25,7 @@ O arquivo final foi compilado e filtrado a partir da fusão das seguintes listas
 
 ## 🛠️ Como Usar
 
-Baixe o arquivo `rockyoubrf.txt` e utilize em suas suítes favoritas de segurança ofensiva.
+Baixe o arquivo `rockyoubrf.txt.zip` e descompacte depois utilize em suas suítes favoritas de segurança ofensiva.
 
 **Exemplo com Aircrack-ng (Wi-Fi WPA/WPA2):**
 ```bash
